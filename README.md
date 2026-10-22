@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=1400&color=1fa80a&center=true&vCenter=true&width=800&height=50&lines=Amirah+Mohsen;Data+Engineering+%7C+Pipelines+%C2%B7+SQL+%C2%B7+Python;Software+Engineer+%E2%86%92+Data+Engineer" alt="Amirah Mohsen" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=1400&color=e68002&center=true&vCenter=true&width=800&height=50&lines=Amirah+Mohsen;Data+Engineering+%7C+Pipelines+%C2%B7+SQL+%C2%B7+Python;Software+Engineer+%E2%86%92+Data+Engineer" alt="Amirah Mohsen" />
 
 <sub> Saudi Arabia ↗ &nbsp;·&nbsp; Available for freelance</sub>
 
@@ -45,23 +45,6 @@
 </td>
 </tr>
 </table>
-
-<br/>
-
-### How I think about a pipeline
-
-```mermaid
-flowchart LR
-    A["Sources<br/>MySQL · CSV · APIs"] --> B["Extract & Clean<br/>Python · Pandas"]
-    B --> C["Orchestrate<br/>Airflow"]
-    C --> D["Store<br/>MariaDB · SQLite"]
-    D --> E["Serve<br/>Reports · Analysis"]
-    style A fill:#0d1117,stroke:#2dd4bf,color:#e6edf3
-    style B fill:#0d1117,stroke:#2dd4bf,color:#e6edf3
-    style C fill:#0d1117,stroke:#2dd4bf,color:#e6edf3
-    style D fill:#0d1117,stroke:#2dd4bf,color:#e6edf3
-    style E fill:#0d1117,stroke:#2dd4bf,color:#e6edf3
-```
 
 <br/>
 
@@ -126,8 +109,8 @@ flowchart LR
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[project-name](https://github.com/mira-coding/project-name)** | One sentence: the problem and the result | `Python` `Airflow` `MariaDB` |
-| **[project-name](https://github.com/mira-coding/project-name)** | One sentence: the problem and the result | `Python` `SQL` `Docker` |
+| **Murtad: transportation system** | A smart multi-platform transportation management system, designed to automate and improve university student transportation operations, built on a React Native mobile application for students and drivers, a Next.js web dashboard for service providers, a Laravel RESTful backend with MySQL, and a Filament admin panel, all hosted on AWS.  <details> <summary><b>the Poster</b></summary><img width="902" height="1277" alt="image" src="https://github.com/user-attachments/assets/0c26397f-d661-40f6-a7a9-14563f249a41" /></details> | `Laravel` `MySQL` `AWS` |
+| **[Emergency department optimizers](https://github.com/Hatoun04/Emergency-Department-Project)** | SmartED is a predictive framework that helps Emergency Department administrators anticipate high-demand periods, optimize staff allocation, support decision-making through an interactive dashboard that presents forecasts and recommendations. | `Python` `AI` `PyTorch` |
 
 for more visit my Portfolio: <a href="https://portfolio-tipl.onrender.com/">Portfolio↗</a>
 <br/>
@@ -158,3 +141,19 @@ Message me on [LinkedIn](https://www.linkedin.com/in/amirah-mohsen-اميرة-م
 </picture>
 
 </div>
+### How I think about a pipeline
+
+```mermaid
+flowchart LR
+    A["Sources<br/>MySQL · CSV · APIs"] --> B["Extract & Clean<br/>Python · Pandas"]
+    B --> C["Orchestrate<br/>Airflow"]
+    C --> D["Store<br/>MariaDB · SQLite"]
+    D --> E["Serve<br/>Reports · Analysis"]
+    style A fill:#0d1117,stroke:#2dd4bf,color:#e6edf3
+    style B fill:#0d1117,stroke:#2dd4bf,color:#e6edf3
+    style C fill:#0d1117,stroke:#2dd4bf,color:#e6edf3
+    style D fill:#0d1117,stroke:#2dd4bf,color:#e6edf3
+    style E fill:#0d1117,stroke:#2dd4bf,color:#e6edf3
+```
+
+<br/>
