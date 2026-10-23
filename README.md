@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=1400&color=e68002&center=true&vCenter=true&width=800&height=50&lines=Amirah+Mohsen;Data+Engineering+%7C+Pipelines+%C2%B7+SQL+%C2%B7+Python;Software+Engineer+%E2%86%92+Data+Engineer" alt="Amirah Mohsen" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=1400&color=fb602e&center=true&vCenter=true&width=800&height=50&lines=Amirah+Mohsen;Data+Engineering+%7C+Pipelines+%C2%B7+SQL+%C2%B7+Python;Software+Engineer+%E2%86%92+Data+Engineer" alt="Amirah Mohsen" />
 
 <sub> Saudi Arabia ↗ &nbsp;·&nbsp; Available for freelance</sub>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/amirah-mohsen-اميرة-محسن-258684273/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/amirah-mohsen/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A68C2" alt="LinkedIn"></a>
 <a href="https://x.com/mira_coder"><img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
 <a href="mailto:ameramohsen.silver@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
 
@@ -20,7 +20,7 @@
 <tr>
 <td width="62%" valign="top">
 
- ## About
+## **About**
 
  I'm a recent software engineering graduate moving into **data engineering**.
  I enjoy the part of data work that most people never see: the plumbing that
@@ -48,7 +48,7 @@
 
 <br/>
 
-### Stack
+## **Stack**
 
 **Data engineering** (my focus)
 
@@ -105,17 +105,18 @@
 
 <br/>
 
-### Featured projects 
+## **Featured projects** 
 
 | Project | What it does | Stack |
 |---|---|---|
 | **Murtad: transportation system** | A smart multi-platform transportation management system, designed to automate and improve university student transportation operations, built on a React Native mobile application for students and drivers, a Next.js web dashboard for service providers, a Laravel RESTful backend with MySQL, and a Filament admin panel, all hosted on AWS.  <details> <summary><b>the Poster</b></summary><img width="902" height="1277" alt="image" src="https://github.com/user-attachments/assets/0c26397f-d661-40f6-a7a9-14563f249a41" /></details> | `Laravel` `MySQL` `AWS` |
 | **[Emergency department optimizers](https://github.com/Hatoun04/Emergency-Department-Project)** | SmartED is a predictive framework that helps Emergency Department administrators anticipate high-demand periods, optimize staff allocation, support decision-making through an interactive dashboard that presents forecasts and recommendations. | `Python` `AI` `PyTorch` |
+| **[MySQL Library system](https://github.com/MIRA-Coding/Library-Database-MySQL)** | database management system designed for library operations. It provides a structured MySQL database to manage information related to books, authors, customers, orders, and wishlists. The system ensures efficient data organization and supports essential library operations through normalized tables. | `MySQL` `SQL` `UML` |
 
-for more visit my Portfolio: <a href="https://portfolio-tipl.onrender.com/">Portfolio↗</a>
+For more visit my Portfolio: <a href="https://portfolio-tipl.onrender.com/">Portfolio↗</a>
 <br/>
 
-### Work with me
+## **Work with me**
 
 I take on freelance work in:
 
@@ -127,7 +128,7 @@ Message me on [LinkedIn](https://www.linkedin.com/in/amirah-mohsen-اميرة-م
 
 <br/>
 
-### Activity
+## **Activity**
 
 <div align="left">
 
@@ -140,7 +141,7 @@ Message me on [LinkedIn](https://www.linkedin.com/in/amirah-mohsen-اميرة-م
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mira-coding&theme=transparent&hide_border=true&layout=compact&title_color=ea580c" alt="Top languages" height="150" />
 </picture>
 
-</div>
+
 ### How I think about a pipeline
 
 ```mermaid
@@ -157,3 +158,4 @@ flowchart LR
 ```
 
 <br/>
+</div>
